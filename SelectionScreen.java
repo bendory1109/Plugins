@@ -31,7 +31,7 @@ public class SelectionScreen implements InventoryHolder {
         inv.setItem(4, item);
 
         //right
-        item = createItem("§a§lCon", Material.OAK_SAPLING, Collections.singletonList("§cHealthy"));
+        item = createItem("§a§lCon", Material.OAK_SAPLING, Collections.singletonList("§aHealthy"));
         inv.setItem(8, item);
 
     }
